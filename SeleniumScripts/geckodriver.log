@@ -1,0 +1,74 @@
+1485036678663	geckodriver	INFO	Listening on 127.0.0.1:50204
+1485036680659	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.srWnFe0Gevql
+1485036680667	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485036681232	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50214
+1485036685685	Marionette	INFO	Listening on port 50214
+[Child 3616] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485117353019	geckodriver	INFO	Listening on 127.0.0.1:61249
+1485117354851	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.M5F1GbfUKd0w
+1485117354851	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485117355335	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61260
+1485117359599	Marionette	INFO	Listening on port 61260
+1485117405867	geckodriver	INFO	Listening on 127.0.0.1:61361
+1485117407743	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.B5UMtio89sWl
+1485117407749	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485117407863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61370
+1485117410314	Marionette	INFO	Listening on port 61370
+1485118571322	geckodriver	INFO	Listening on 127.0.0.1:62832
+1485118573304	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.RkUaQyDcHpHk
+1485118573311	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485118573451	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62840
+1485118575763	Marionette	INFO	Listening on port 62840
+[Child 15336] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1485123315036	geckodriver	INFO	Listening on 127.0.0.1:52691
+1485123316932	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.aACVh4Bs6f1B
+1485123316947	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485123317276	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52701
+1485123319802	Marionette	INFO	Listening on port 52701
+1485123365098	geckodriver	INFO	Listening on 127.0.0.1:52784
+1485123367095	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.AsmjPjieHGz0
+1485123367110	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485123367235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52792
+1485123368750	Marionette	INFO	Listening on port 52792
+1485123407376	geckodriver	INFO	Listening on 127.0.0.1:52875
+1485123409127	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.kCnZm6WdvLTx
+1485123409189	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485123409314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52884
+1485123412221	Marionette	INFO	Listening on port 52884
+1485124498344	geckodriver	INFO	Listening on 127.0.0.1:54354
+1485124500300	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.FHwSNZFc9UoB
+1485124500341	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485124500535	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54362
+1485124503250	Marionette	INFO	Listening on port 54362
+1485124804161	geckodriver	INFO	Listening on 127.0.0.1:54834
+1485124806082	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.nKWpsFMx3Grm
+1485124806089	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485124806232	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54843
+1485124809217	Marionette	INFO	Listening on port 54843
+1485124921028	geckodriver	INFO	Listening on 127.0.0.1:55054
+1485124923066	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.ULp0yUDGM9KT
+1485124923077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485124923216	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55062
+1485124925206	Marionette	INFO	Listening on port 55062
+[Child 2392] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2392] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485199497786	geckodriver	INFO	Listening on 127.0.0.1:54038
+1485199499813	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.EGhfP0UdBd3n
+1485199499826	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485199500137	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54046
+1485199502750	Marionette	INFO	Listening on port 54046
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1485200999232	geckodriver	INFO	Listening on 127.0.0.1:55912
+1485201001238	mozprofile::profile	INFO	Using profile path C:\Users\NIKHIL~1\AppData\Local\Temp\rust_mozprofile.Pr40CXslDfHw
+1485201001254	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485201001454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55921
+1485201003459	Marionette	INFO	Listening on port 55921
